@@ -4,6 +4,7 @@ node_modules/
 /uploads/
 /jobs/
 /out/
+/generated_output/
 *.log
 .DS_Store
 # Stray Medium article HTML files from other projects (kept out of this repo).
